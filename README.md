@@ -7,5 +7,5 @@ Available filter options
 "yearGreaterThan": 2020,  
 "yearLessThan": 2020,  
 "shiftType": "manual",  
-"sort": "model/year/rida",  
+"sort": "model/year/rida"  
 //  
